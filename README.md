@@ -10,5 +10,7 @@ As stated above the main purpose is to provide git training
 
 ## Deployment
 
+This is a deployment project
+
 This is a simply project
 Sample website with plenty of files for demos
