@@ -14,3 +14,7 @@ This is a deployment project
 
 This is a simply project
 Sample website with plenty of files for demos
+
+###Copyright
+
+Git.Training
